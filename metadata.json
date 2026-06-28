@@ -1,0 +1,6 @@
+{
+  "name": "Kazu Hack",
+  "description": "Trình quản lý và cấu hình tối ưu game Hack Kazu Delta VNG trên các hệ điều hành iOS và Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
